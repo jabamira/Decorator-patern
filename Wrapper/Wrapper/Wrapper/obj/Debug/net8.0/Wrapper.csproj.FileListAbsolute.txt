@@ -1,0 +1,14 @@
+G:\3curse\Wrapper\Wrapper\Wrapper\bin\Debug\net8.0\Wrapper.exe
+G:\3curse\Wrapper\Wrapper\Wrapper\bin\Debug\net8.0\Wrapper.deps.json
+G:\3curse\Wrapper\Wrapper\Wrapper\bin\Debug\net8.0\Wrapper.runtimeconfig.json
+G:\3curse\Wrapper\Wrapper\Wrapper\bin\Debug\net8.0\Wrapper.dll
+G:\3curse\Wrapper\Wrapper\Wrapper\bin\Debug\net8.0\Wrapper.pdb
+G:\3curse\Wrapper\Wrapper\Wrapper\obj\Debug\net8.0\Wrapper.GeneratedMSBuildEditorConfig.editorconfig
+G:\3curse\Wrapper\Wrapper\Wrapper\obj\Debug\net8.0\Wrapper.AssemblyInfoInputs.cache
+G:\3curse\Wrapper\Wrapper\Wrapper\obj\Debug\net8.0\Wrapper.AssemblyInfo.cs
+G:\3curse\Wrapper\Wrapper\Wrapper\obj\Debug\net8.0\Wrapper.csproj.CoreCompileInputs.cache
+G:\3curse\Wrapper\Wrapper\Wrapper\obj\Debug\net8.0\Wrapper.dll
+G:\3curse\Wrapper\Wrapper\Wrapper\obj\Debug\net8.0\refint\Wrapper.dll
+G:\3curse\Wrapper\Wrapper\Wrapper\obj\Debug\net8.0\Wrapper.pdb
+G:\3curse\Wrapper\Wrapper\Wrapper\obj\Debug\net8.0\Wrapper.genruntimeconfig.cache
+G:\3curse\Wrapper\Wrapper\Wrapper\obj\Debug\net8.0\ref\Wrapper.dll
